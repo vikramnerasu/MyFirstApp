@@ -28,6 +28,6 @@
 }
 
 - (IBAction)btn_submit:(id)sender {
-    lblOutput.text = @"Howz that";
+    lblOutput.text = @"This is my First App with Action";
 }
 @end
